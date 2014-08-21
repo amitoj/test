@@ -4,5 +4,8 @@
 public class QQQ {
     public static void main(String[] args) {
         System.out.println("QQQ");
+        System.out.println("QQQ");
+        System.out.println("QQQ");
+        System.out.println("QQQ");
     }
 }
